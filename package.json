@@ -1,0 +1,23 @@
+{
+  "name": "hw-ws",
+  "version": "1.0.0",
+  "description": "spa_ws_hw",
+  "main": "index.js",
+  "dependencies": {
+    "es6-shim": "^0.35.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adi2233/spa_ws_hw.git"
+  },
+  "author": "adi bar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adi2233/spa_ws_hw/issues"
+  },
+  "homepage": "https://github.com/adi2233/spa_ws_hw#readme"
+}
